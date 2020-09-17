@@ -1,4 +1,5 @@
 # Data-Mining
+[참조링크](http://yerin.creatorlink.net/DATA-MINING-PROJECT)
 
 raw csv에서 머무른 장소와, 머무른 시간을 얻기 위해 다음 두 코드를 이용합니다. 이 코드들을 이용해 2)처리용 csv를 얻습니다.
 
